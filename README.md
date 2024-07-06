@@ -36,6 +36,3 @@ This project is a simple music website created using HTML, CSS, and JavaScript. 
 
 This project was created by [Vigneshwaran].
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
